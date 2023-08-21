@@ -1,5 +1,5 @@
 # allure-lt-sample
-# Make sure you have allure install in your syste,
+# Make sure you have allure install in your system,
 ## To run test
 `mvn clean test`
 ## To view allure report
